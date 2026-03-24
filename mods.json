@@ -10,10 +10,19 @@
     "tags": ["homepage", "gallery"],
     "previewUrl": "",
     "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/MovieGallery",
-    "jsUrl": "https://raw.githubusercontent.com/Jellyfin-PG/Custom-Mods/refs/heads/main/MovieGallery/MovieGallery.js",
+    "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/MovieGallery/MovieGallery.min.js",
     "jsInline": null,
     "cssUrl": null,
-    "cssInline": null
+    "cssInline": null,
+    "vars": [
+      {
+          "key": "GALLERY_TIMEOUT",
+          "name": "Gallery Timeout",
+          "description": "The time it takes to change media items in the gallery.",
+          "type": "number",
+          "default": "6000"
+      }
+    ]
   },
   {
     "id": "video-tuner",
