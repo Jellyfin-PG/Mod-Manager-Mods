@@ -10,7 +10,7 @@
     "tags": ["player", "video"],
     "previewUrl": "",
     "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/VideoTuner",
-    "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/VideoTuner/VideoTuner.js",
+    "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/VideoTuner/VideoTuner.min.js",
     "jsInline": null,
     "cssUrl": null,
     "cssInline": null
@@ -26,7 +26,7 @@
     "tags": ["ui"],
     "previewUrl": "",
     "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/AmbientUI",
-    "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/AmbientUI/AmbientUI.js",
+    "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/AmbientUI/AmbientUI.min.js",
     "jsInline": null,
     "cssUrl": null,
     "cssInline": null
