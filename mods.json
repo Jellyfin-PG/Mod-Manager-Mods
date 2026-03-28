@@ -119,5 +119,21 @@
     "jsInline": null,
     "cssUrl": null,
     "cssInline": null
+  },
+  {
+    "id": "hover-details",
+    "name": "Hover Details",
+    "author": "grimmdev",
+    "description": "A popup on hover for movie/show/episode details.",
+    "version": "2026-02-28",
+    "type": "js",
+    "jellyfin": "10.11+",
+    "tags": ["ui", "popup"],
+    "previewUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/HoverDetails/thumbnail.png",
+    "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/HoverDetails",
+    "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/HoverDetails/HoverDetails.min.js",
+    "jsInline": null,
+    "cssUrl": null,
+    "cssInline": null
   }
 ]
