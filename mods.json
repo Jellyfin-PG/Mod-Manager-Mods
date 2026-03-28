@@ -41,17 +41,17 @@
     "cssInline": null
   },
   {
-    "id": "dynamic-ui",
-    "name": "Ambient UI",
+    "id": "ambient-play-button",
+    "name": "Ambient Play Button",
     "author": "grimmdev",
     "description": "Samples movie poster colors and applies the majority color to the play button.",
     "version": "latest",
     "type": "js",
     "jellyfin": "10.11+",
     "tags": ["ui"],
-    "previewUrl": "",
-    "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/AmbientUI",
-    "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/AmbientUI/AmbientUI.min.js",
+    "previewUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/AmbientPlayButton/thumbnail.png",
+    "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/AmbientPlayButton",
+    "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/AmbientPlayButton/AmbientPlayButton.min.js",
     "jsInline": null,
     "cssUrl": null,
     "cssInline": null
