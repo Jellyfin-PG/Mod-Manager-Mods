@@ -183,5 +183,21 @@
     "jsInline": null,
     "cssUrl": null,
     "cssInline": null
+  },
+  {
+    "id": "are-you-still-watching",
+    "name": "Are You Still Watching?",
+    "author": "grimmdev",
+    "description": "Netflix like are you still watching.",
+    "version": "2026-02-28",
+    "type": "js",
+    "jellyfin": "10.11+",
+    "tags": ["ui", "movies", "episodes"],
+    "previewUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/AreYouStillWatching/thumbnail.png",
+    "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/AreYouStillWatching",
+    "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/AreYouStillWatching/AreYouStillWatching.min.js",
+    "jsInline": null,
+    "cssUrl": null,
+    "cssInline": null
   }
 ]
