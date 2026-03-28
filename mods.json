@@ -103,5 +103,21 @@
     "jsInline": null,
     "cssUrl": null,
     "cssInline": null
+  },
+  {
+    "id": "new-arrivals-badge",
+    "name": "New Arrivals Badge",
+    "author": "grimmdev",
+    "description": "A custom badge for items to jellyfin, that shows newly added items.",
+    "version": "2026-02-28",
+    "type": "js",
+    "jellyfin": "10.11+",
+    "tags": ["vr", "ui", "player", "video"],
+    "previewUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/NewArrivals/thumbnail.png",
+    "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/NewArrivals",
+    "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/NewArrivals/NewArrivals.min.js",
+    "jsInline": null,
+    "cssUrl": null,
+    "cssInline": null
   }
 ]
