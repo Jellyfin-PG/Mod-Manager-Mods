@@ -151,5 +151,21 @@
     "jsInline": null,
     "cssUrl": null,
     "cssInline": null
+  },
+  {
+    "id": "bluelight-filter",
+    "name": "Bluelight Filter",
+    "author": "grimmdev",
+    "description": "A button to your video player to filter bluelight.",
+    "version": "2026-02-28",
+    "type": "js",
+    "jellyfin": "10.11+",
+    "tags": ["ui", "video", "player"],
+    "previewUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/BluelightFilter/thumbnail.png",
+    "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/BluelightFilter",
+    "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/BluelightFilter/BluelightFilter.min.js",
+    "jsInline": null,
+    "cssUrl": null,
+    "cssInline": null
   }
 ]
