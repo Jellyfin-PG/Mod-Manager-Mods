@@ -208,7 +208,7 @@
     "version": "2026-02-28",
     "type": "js",
     "jellyfin": "10.11+",
-    "tags": ["ui", "movies", "stats", "episodes"],
+    "tags": ["ui", "badges", "ratings"],
     "previewUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/RatingBadges/thumbnail.png",
     "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/RatingBadges",
     "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/RatingBadges/RatingBadges.min.js",
