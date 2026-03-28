@@ -73,22 +73,6 @@
     "cssInline": null
   },
   {
-    "id": "imdb-top250",
-    "name": "IMDb Top 250 Badge",
-    "author": "chrissix666",
-    "description": "Adds an IMDb Top 250 badge to the item detail page for any title that appears on the list.",
-    "version": "2026-02-23",
-    "type": "css",
-    "jellyfin": "10.10+",
-    "tags": ["ui", "badges", "imdb"],
-    "previewUrl": "",
-    "sourceUrl": "https://github.com/chrissix666/Jellyfin-CSS-Mods",
-    "jsUrl": null,
-    "jsInline": null,
-    "cssUrl": "https://raw.githubusercontent.com/chrissix666/Jellyfin-CSS-Mods/refs/heads/main/imdb-top250.css",
-    "cssInline": null
-  },
-  {
     "id": "360-vr-player",
     "name": "360 VR Player",
     "author": "Mix1C",
