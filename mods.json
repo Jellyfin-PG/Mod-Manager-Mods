@@ -33,7 +33,7 @@
     "type": "js",
     "jellyfin": "10.11+",
     "tags": ["player", "video"],
-    "previewUrl": "",
+    "previewUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/VideoTuner/thumbnail.png",
     "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/VideoTuner",
     "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/VideoTuner/VideoTuner.min.js",
     "jsInline": null,
