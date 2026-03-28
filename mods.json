@@ -8,7 +8,7 @@
     "type": "js",
     "jellyfin": "10.11+",
     "tags": ["homepage", "gallery"],
-    "previewUrl": "",
+    "previewUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/MovieGallery/thumbnail.png",
     "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/MovieGallery",
     "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/MovieGallery/MovieGallery.min.js",
     "jsInline": null,
