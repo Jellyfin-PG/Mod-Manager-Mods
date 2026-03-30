@@ -247,5 +247,21 @@
     "jsInline": null,
     "cssUrl": null,
     "cssInline": null
+  },
+  {
+    "id": "weather-card",
+    "name": "Weather Card",
+    "author": "grimmdev",
+    "description": "Shows the current weather and time.",
+    "version": "1",
+    "type": "js",
+    "jellyfin": "10.11+",
+    "tags": ["ui"],
+    "previewUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/WeatherCard/thumbnail.png",
+    "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/WeatherCard",
+    "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/WeatherCard/WeatherCard.min.js",
+    "jsInline": null,
+    "cssUrl": null,
+    "cssInline": null
   }
 ]
