@@ -332,8 +332,8 @@
     "cssUrl": null
   },
   {
-    "id": "latency-icon",
-    "name": "Latency Icon",
+    "id": "battery-icon",
+    "name": "Battery Icon",
     "author": "grimmdev",
     "description": "Shows the current battery in the header.",
     "version": "1",
