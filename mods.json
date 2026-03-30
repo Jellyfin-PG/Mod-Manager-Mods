@@ -331,8 +331,6 @@
     "previewUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/LatencyIcon/thumbnail.png",
     "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/LatencyIcon",
     "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/LatencyIcon/LatencyIcon.min.js",
-    "jsInline": null,
-    "cssUrl": null,
-    "cssInline": null
-  },
+    "cssUrl": null
+  }
 ]
