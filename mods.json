@@ -344,5 +344,19 @@
     "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/BatteryIcon",
     "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/BatteryIcon/BatteryIcon.min.js",
     "cssUrl": null
+  },
+  {
+    "id": "movie-quiz-card",
+    "name": "Movie Quiz Card",
+    "author": "grimmdev",
+    "description": "Adds a movie quiz to the homepage.",
+    "version": "1",
+    "type": "js",
+    "jellyfin": "10.11+",
+    "tags": ["ui", "homepage"],
+    "previewUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/MovieQuizCard/thumbnail.png",
+    "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/MovieQuizCard",
+    "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/MovieQuizCard/MovieQuizCard.min.js",
+    "cssUrl": null
   }
 ]
