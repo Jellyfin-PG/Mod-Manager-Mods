@@ -21,6 +21,13 @@
           "description": "The time it takes to change media items in the gallery.",
           "type": "number",
           "default": "6000"
+      },
+      {
+          "key": "SHOW_MOVIE_INFO",
+          "name": "Show Movie Details",
+          "description": "Shows the movie details.",
+          "type": "boolean",
+          "default": "true"
       }
     ]
   },
