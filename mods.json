@@ -279,7 +279,7 @@
     "version": "1",
     "type": "js",
     "jellyfin": "10.11+",
-    "tags": ["ui"],
+    "tags": ["ui", "header"],
     "previewUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/WeatherIcon/thumbnail.png",
     "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/WeatherIcon",
     "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/WeatherIcon/WeatherIcon.min.js",
@@ -295,7 +295,7 @@
     "version": "1",
     "type": "js",
     "jellyfin": "10.11+",
-    "tags": ["ui"],
+    "tags": ["ui", "header"],
     "previewUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/TimeIcon/thumbnail.png",
     "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/TimeIcon",
     "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/TimeIcon/TimeIcon.min.js",
@@ -311,13 +311,11 @@
     "version": "1",
     "type": "js",
     "jellyfin": "10.11+",
-    "tags": ["ui"],
+    "tags": ["ui", "header"],
     "previewUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/ActiveSessionCounterIcon/thumbnail.png",
     "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/ActiveSessionCounterIcon",
     "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/ActiveSessionCounterIcon/ActiveSessionCounterIcon.min.js",
-    "jsInline": null,
-    "cssUrl": null,
-    "cssInline": null
+    "cssUrl": null
   },
   {
     "id": "latency-icon",
@@ -327,10 +325,24 @@
     "version": "1",
     "type": "js",
     "jellyfin": "10.11+",
-    "tags": ["ui"],
+    "tags": ["ui", "header"],
     "previewUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/LatencyIcon/thumbnail.png",
     "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/LatencyIcon",
     "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/LatencyIcon/LatencyIcon.min.js",
+    "cssUrl": null
+  },
+  {
+    "id": "latency-icon",
+    "name": "Latency Icon",
+    "author": "grimmdev",
+    "description": "Shows the current battery in the header.",
+    "version": "1",
+    "type": "js",
+    "jellyfin": "10.11+",
+    "tags": ["ui", "header"],
+    "previewUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/BatteryIcon/thumbnail.png",
+    "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/BatteryIcon",
+    "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/BatteryIcon/BatteryIcon.min.js",
     "cssUrl": null
   }
 ]
