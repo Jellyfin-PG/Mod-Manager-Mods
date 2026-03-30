@@ -263,7 +263,7 @@
     "version": "1",
     "type": "js",
     "jellyfin": "10.11+",
-    "tags": ["ui"],
+    "tags": ["ui", "homepage"],
     "previewUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/WeatherCard/thumbnail.png",
     "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/WeatherCard",
     "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/WeatherCard/WeatherCard.min.js",
