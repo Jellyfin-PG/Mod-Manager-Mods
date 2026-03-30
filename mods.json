@@ -302,5 +302,21 @@
     "jsInline": null,
     "cssUrl": null,
     "cssInline": null
+  },
+  {
+    "id": "active-session-counter-icon",
+    "name": "Active Session Counter Icon",
+    "author": "grimmdev",
+    "description": "Shows the active content watching sessions.",
+    "version": "1",
+    "type": "js",
+    "jellyfin": "10.11+",
+    "tags": ["ui"],
+    "previewUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/ActiveSessionCounterIcon/thumbnail.png",
+    "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/ActiveSessionCounterIcon",
+    "jsUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/ActiveSessionCounterIcon/ActiveSessionCounterIcon.min.js",
+    "jsInline": null,
+    "cssUrl": null,
+    "cssInline": null
   }
 ]
